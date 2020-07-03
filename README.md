@@ -3,3 +3,7 @@ The code for an individual based model of density-dependent movement in a popula
 
 To run the code, open densitydependentRW.m
 Here you can select parameters and choose whether to use a normal distribution or power law distribution as the dispersal kernel - comment out whichever you don't choose.
+
+
+The circ_mean file is from the Circular Statistics Toolbox for Matlab By Philipp Berens, 2009: berens@tuebingen.mpg.de - www.kyb.mpg.de/~berens/circStat.html
+
