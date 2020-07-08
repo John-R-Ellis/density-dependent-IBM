@@ -10,4 +10,4 @@ Here you can select parameters and choose whether to use a normal distribution o
 
 The circ_mean file is from the Circular Statistics Toolbox for Matlab By Philipp Berens, 2009: berens@tuebingen.mpg.de - www.kyb.mpg.de/~berens/circStat.html
 
-For more information contact John Ellis jxe348@student.bham.ac.uk or Natalia Petrovskaya n.b.petrovskaya@bham.ac.uk
+For more information contact John Ellis jxe348@student.bham.ac.uk
